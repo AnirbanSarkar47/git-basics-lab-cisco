@@ -1,2 +1,4 @@
 Git basics completed.
 creating the conflicts
+
+pr revert
